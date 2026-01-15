@@ -14,7 +14,7 @@ Key design principles:
 
 The full BPMN diagram is available here:
 
-NotificationsPortal.png
+![NotificationsPortal](/Assets/NotificationsPortal.png)
 
 ## Why BPMN
 
