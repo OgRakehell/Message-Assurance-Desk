@@ -65,7 +65,7 @@ The BPMN workflow represents the operational source of truth for OTP and SMS inc
 
 ## Process diagram:
 
-process-design/otp_sms_bpmn.png
+NotificationsPortal.png
 
 ## Impact
 
