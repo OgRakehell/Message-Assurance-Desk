@@ -14,7 +14,7 @@ Key design principles:
 
 The full BPMN diagram is available here:
 
-process-design/otp_sms_bpmn.png
+NotificationsPortal.png
 
 ## Why BPMN
 
